@@ -84,7 +84,7 @@ This section will be updated weekly with progress details and corresponding Jupy
   
 
 - **Notebooks:**  
-  - [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
+  - [Week1-Libraries-Importing-Data-Setup.ipynb](wasteclassification.ipynb)  
 
 
 ### Week 2: TBD  
