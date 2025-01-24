@@ -96,8 +96,8 @@ This section will be updated weekly with progress details and corresponding Jupy
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Ashok3201/Week-1-CNN
-   cd Week-1-CNN
+   git clone https://github.com/Ashok3201/CNN-Plastic-Waste-Classification
+   cd CNN-Plastic-Waste-Classification
    ```  
 2. Install the required dependencies:  
    ```bash  
