@@ -81,11 +81,11 @@ This section will be updated weekly with progress details and corresponding Jupy
   - Imported the required libraries and frameworks.  
   - Set up the project environment.  
   - Explored the dataset structure.  
-  - Note: If the file takes too long to load, you can view the Kaggle notebook directly [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification).  
+  
 
 - **Notebooks:**  
   - [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
-  - [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)  
+
 
 ### Week 2: TBD  
 *Details to be added after completion.*  
@@ -96,8 +96,8 @@ This section will be updated weekly with progress details and corresponding Jupy
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Hardik-Sankhla/CNN-Plastic-Waste-Classification  
-   cd CNN-Plastic-Waste-Classification
+   git clone[ https://github.com/Hardik-Sankhla/CNN-Plastic-Waste-Classification  
+   cd CNN-Plastic-Waste-Classification](https://github.com/Ashok3201/Week-1-CNN.git)
    ```  
 2. Install the required dependencies:  
    ```bash  
@@ -129,4 +129,4 @@ This section will be updated weekly with progress details and corresponding Jupy
 Contributions are welcome! If you would like to contribute, please open an issue or submit a pull request.  
 
 ## License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License. See the [LICENSE]() file for details. 
