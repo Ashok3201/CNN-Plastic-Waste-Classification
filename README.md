@@ -72,24 +72,44 @@ Below is a visual representation of the CNN architecture used in this project:
 
 Data augmentation techniques were utilized to enhance model performance and generalizability.  
 
-## Weekly Progress  
-This section will be updated weekly with progress details and corresponding Jupyter Notebooks.  
+## Weekly Progress
 
-### Week 1: Libraries, Data Import, and Setup  
-- **Date:** 20th January 2025 - 27th January 2025  
-- **Activities:**  
-  - Imported the required libraries and frameworks.  
-  - Set up the project environment.  
-  - Explored the dataset structure.  
-  
+### Week 1:
+#### Objective:
+* Set up the initial framework for a CNN model to classify waste into Organic and Recyclable categories.
+
+#### Activities:
+* Installed essential libraries and ensured TensorFlow was functional.
+* Collected images for training and testing from specified paths.
+* Gathered images using `glob` and labeled them accordingly.
+* Stored image data and labels in a pandas DataFrame.
+
+#### Outcome:
+* Imported all necessary libraries and prepared a dataset of 22,564 images.
+* Created a balanced dataset with 12,565 Organic and 9,999 Recyclable images.
 
 - **Notebooks:**  
-  - [Week1-Libraries-Importing-Data-Setup.ipynb](wasteclassification.ipynb)  
+  - [Week1-Libraries-Importing-Data-Setup.ipynb](wasteclassification.ipynb)
+    
+### Week 2:
+#### Objective:
+* Visualize the dataset and build a Convolutional Neural Network (CNN) model.
 
+#### Activities:
+* Visualized sample images with their labels using `matplotlib`.
+* Built a Sequential CNN model with multiple layers (Convolutional, Activation, MaxPooling, Flatten, Dense, Dropout).
+* Compiled the model with `binary_crossentropy` loss and `adam` optimizer.
+* Created training and testing data generators with rescaling using `ImageDataGenerator`.
+* Trained the CNN model for 10 epochs and validated the performance.
 
-### Week 2: TBD  
-*Details to be added after completion.*  
+#### Outcome:
+* Successfully visualized the dataset and built a CNN model.
+* Achieved a training accuracy of 97.35% and a validation accuracy of 89.97% after 10 epochs.
+* Evaluated the model on test data with an accuracy of 87.50%.
 
+- **Notebooks:**  
+  - [Week2-build-Convolutional-Neural-Network-(CNN)-model.ipynb](wasteclassification.ipynb)
+    
 ### Week 3: TBD  
 *Details to be added after completion.*  
 
