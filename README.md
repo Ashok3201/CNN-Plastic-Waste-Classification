@@ -129,4 +129,4 @@ This section will be updated weekly with progress details and corresponding Jupy
 Contributions are welcome! If you would like to contribute, please open an issue or submit a pull request.  
 
 ## License  
-This project is licensed under the MIT License. See the [LICENSE]() file for details. 
+
