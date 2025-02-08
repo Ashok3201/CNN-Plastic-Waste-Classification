@@ -110,8 +110,19 @@ Data augmentation techniques were utilized to enhance model performance and gene
 - **Notebooks:**  
   - [Week2-build-Convolutional-Neural-Network-(CNN)-model.ipynb](wasteclassification.ipynb)
     
-### Week 3: TBD  
-*Details to be added after completion.*  
+### Week 3 (Final):
+#### Objective:
+* Evaluate model performance with new metrics and improve prediction function.
+
+#### Activities:
+* Plotted training and validation accuracy over epochs using `matplotlib`.
+* Plotted training and validation loss over epochs using `matplotlib`.
+* Improved prediction function to display images and predictions.
+
+#### Outcome:
+* Successfully evaluated model performance with new metrics.
+* Enhanced the prediction function to provide visual outputs.
+* Verified the improved model's accuracy on new test images with accurate predictions.  
 
 ## How to Run  
 1. Clone the repository:  
