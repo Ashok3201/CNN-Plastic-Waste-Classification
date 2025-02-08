@@ -122,8 +122,10 @@ Data augmentation techniques were utilized to enhance model performance and gene
 #### Outcome:
 * Successfully evaluated model performance with new metrics.
 * Enhanced the prediction function to provide visual outputs.
-* Verified the improved model's accuracy on new test images with accurate predictions.  
+* Verified the improved model's accuracy on new test images with accurate predictions.
 
+- **Notebooks:**  
+  - [Week3-prediction-function and test-predictions.ipynb](wasteclassification.ipynb)
 ## How to Run  
 1. Clone the repository:  
    ```bash  
